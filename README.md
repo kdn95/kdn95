@@ -14,7 +14,8 @@
   <li>🌱 I’m currently learning Python3, HTML/CSS & JavaScript</li>
   <li>⚡ In my free time, I enjoy listening to music & cooking</li>
   <li>
-    📫 How to reach me: 
+    📫 How to reach me:
+    <a href="https://www.linkedin.com/in/khangdnguyen95/" rel="nofollow">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Khang_N-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhangdnguyen95%2F">
   </li>
 </ul>
