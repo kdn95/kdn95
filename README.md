@@ -1,30 +1,30 @@
-<div id="header" align="center">
+<div id="header" align="center" dir="auto">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
 </div>
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="5%"/>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"/>
   Hi there, I'm Khang
-</h2>
+</h1>
 
 <!--About Me-->
-<h2>🙋‍♂️ About Me</h2>
+### 🙋‍♂️ About Me
 <ul>
   <li>🖥️ I am currently a Full-Stack Software Engineering Student based in Melbourne, Australia</li>
   <li>🔭 I’m currently working on an AirBnB clone</li>
   <li>🌱 I’m currently learning Python3, HTML/CSS & JavaScript</li>
-  <li>⚡ In my free time, I enjoy cooking, listening to music and hanging with friends and family</li>
+  <li>⚡ In my free time, I enjoy listening to music & cooking</li>
   <li>
     📫 How to reach me: 
     <img alt="Static Badge" src="https://img.shields.io/badge/-Khang_N-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhangdnguyen95%2F">
   </li>
 </ul>
 
+---
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="3%"/> My Skills
 
-<h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="5%"/>
-  My Skills
-</h2>
 <div dir="auto">
+  <a href="https://www.linux.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -41,14 +41,10 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 
+---
+### 📊 My Stats
 <div class="markdown-heading" dir="auto">
-  <h2 class="heading-element" dir="auto">
-    📊 My Stats
-  </h2>
-  <a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 GitHub Stats:" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-  </svg>
-  </a>
+
 </div>
 <p dir="auto">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kdn95&theme=dark&background=000000&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
