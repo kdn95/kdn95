@@ -1,11 +1,13 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXF0a3NrdzNja2M1azJnNTYzY3hseTZ0NHRndXZsNTI4dndsNTFjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="320"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%"/>
 </div>
 
 <head>
   <div>
     <header>
-      <h2 align="center">👋 Hey there, I'm Khang </h2>
+      <h2 align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="5%"/>
+        Hey there, I'm Khang </h2>
     </header>
   </div>
 </head>
@@ -20,8 +22,7 @@
     <li>🌱 I’m currently learning Python3, HTML/CSS & JavaScript</li>
     <li>
       📫 How to reach me: 
-      <a href="https://www.linkedin.com/in/khangdnguyen95/" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Khang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/-Khang_N-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhangdnguyen95%2F">
     </li>
   </ul>
 </div>
