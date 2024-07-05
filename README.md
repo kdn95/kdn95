@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/khangdnguyen95/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    ![Profile Views](https://komarev.com/ghpvc/?username=kdn95&style=flat-square)
 </div>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"/>
@@ -59,3 +58,4 @@
   <a href="https://github.com/kdn95/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn95&layout=donut&theme=vision-friendly-dark&hide_border=true" style="max-width: 100%;"></a>
 </p>
+    <img src="https://komarev.com/ghpvc/?username=kdn95&style=flat-square" alt="Profile Views"/>
