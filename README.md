@@ -3,9 +3,9 @@
 </div>
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="5%"/>
-  Hey there, I'm Khang
+  Hi there, I'm Khang
 </h2>
-<hr>
+
 <!--About Me-->
 <h2>🙋‍♂️ About Me</h2>
 <ul>
@@ -18,7 +18,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/-Khang_N-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhangdnguyen95%2F">
   </li>
 </ul>
-<hr>
+
 
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="5%"/>
@@ -40,7 +40,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
 </div>
-<hr>
+
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">
     📊 My Stats
