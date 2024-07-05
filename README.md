@@ -1,6 +1,12 @@
 <div id="header" align="center" dir="auto">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
 </div>
+  <div align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/khangdnguyen95/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    ![Profile Views](https://komarev.com/ghpvc/?username=kdn95&style=flat-square)
+</div>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"/>
   Hi there, I'm Khang
