@@ -31,6 +31,8 @@
 <div dir="auto">
   <a href="https://www.linux.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" title="JS" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
