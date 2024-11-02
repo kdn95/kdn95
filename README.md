@@ -15,7 +15,7 @@
 ### 🙋‍♂️ About Me
 <ul>
   <li>🖥️ I am currently a Full-Stack Software Engineering Student based in Melbourne, Australia</li>
-  <li>🔭 I’m currently working on an AirBnB clone</li>
+  <li>🔭 I’m currently working on a full-stack web application called "Share Circle"</li>
   <li>🌱 I’m currently learning Python3, HTML/CSS & JavaScript</li>
   <li>⚡ In my free time, I enjoy listening to music & cooking</li>
   <li>
