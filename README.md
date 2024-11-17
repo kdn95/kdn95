@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
 </div>
   <div align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/khangdnguyen95/">
+  <a href="https://www.linkedin.com/in/khangdn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -15,12 +15,12 @@
 ### 🙋‍♂️ About Me
 <ul>
   <li>🖥️ I am currently a Full-Stack Software Engineering Student based in Melbourne, Australia</li>
-  <li>🔭 I’m currently working on a full-stack web application called "Share Circle"</li>
-  <li>🌱 I’m currently learning Python3, HTML/CSS & JavaScript</li>
+  <li>🔭 I’m currently working towards my AWS Cloud Practitioner Certificate"</li>
+  <li>🌱 I’m currently learning Three.js</li>
   <li>⚡ In my free time, I enjoy listening to music & cooking</li>
   <li>
     📫 How to reach me:
-    <a href="https://www.linkedin.com/in/khangdnguyen95/" rel="nofollow">
+    <a href="https://www.linkedin.com/in/khangdn/" rel="nofollow">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Khang_N-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhangdnguyen95%2F">
   </li>
 </ul>
